@@ -44,6 +44,10 @@
         <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
   <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z"/>
 </svg> Kontak</a>
+
+<a href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z"/>
+</svg></a>
     </div>
 </div>
 
@@ -58,7 +62,7 @@
 
 <div id="apanih">
     <br>
-<p>Sipeka | Mengenal Bendungan Pice > Sejarah Bendungan Pice
+<p>Sipeka | Mengenal SiPeka
 
  
 
@@ -67,49 +71,27 @@
     </div>
 
     <br>
-    
 
-<h1 class="hop">Sejarah Bendungan Pice</h1>
+    <div class="center-both">
+    <div class="sipekalagi">
+<img src="img/sipeka.png" alt="" style="width: 200px; height: 200px; justtify-content: center; text-align: center; ">
+</div>
+</div>
 
-<div class="container1">
-        <div class="pice2">
-            <img src="img/sejarah.png" alt="pice1">
-            <p>Foto lama<i> - Bendungan Pice</i></p>
-        </div>
-        <div class="ygpenting">
-            
-            <p class="indented-text"> 
-Sejak tahun 1722, kongsi dagang VOC mengadakan perjanjian dengan Sultan Ratu Anum Kamarduin dari Palembang untuk membeli timah secara monopoli. Maka sejak saat itu, VOC memulai kecurangan-kecurangan dan pelanggaran janji yang menimbulkan ketegangan dan sikap permusuhan. Pada tahun 1759, Residen Palembang De Herre melakukan penelitian, ia kemudian menyimpulkan bahwa tidak ada biji timah Disana. Timah Kopong adalah pasir yang mirip pasir timah, tapi tidak mengandung timah. Konon pengkopongan pasir timah dilakukan oleh sejenis dukun kampong yang ada di Belitung. Pada tanggal 21 Oktober 1981, Syarif Mohamad datang dari Palembang untuk membuka jalan bagi masuknya Belanda ke Belitung dan mengibarkan pertama kali bendera Belanda di Tanjung Sinba. Ia berusaha menguasai Depati K.A Rahad yang masih muda, akan tetapi usaha tersebut tidak memperoleh hasil.
-</p>
 
-        </div>
-    </div>
+ <h1>SiPeka | Sistem Pemantauan Ketinggian Air</h1>
+<div class="iniajalah">
+ <p>Berdasarkan permasalahan yang dipaparkan tadi, penulis tertarik untuk membuat karya aplikasi yang diberi judul “Sistem Pemantauan Ketinggian Air (SIPEKA)” yang merupakan sistem yang dibuat sebagai output dari kegiatan KBKM 2023 di Desa Lenggang, Kecamatan Gantung yang berfungsi untuk mengukur level ketinggian air dan memberikan informasi terkait potensi bencana yang timbul akibat dari peningkatan/penurunan debit air di Sungai Lenggang. Kemah Budaya Kaum Muda (KBKM) Tahun 2023 Merupakan program dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia yang berfungsi sebagai tempat bagi kawula muda (usia 18 s.d 25 tahun) guna menciptakan aplikasi dan purwarupa yang dapat menjawab berbagai masalah dalam pemajuan kebudayaan melalui pendekatan STEAM (Science, Technology, Engineering, Art, Mathematics). </p>
 
-    <div class="container2">
-        <div class="penjelasan2">
-            <p class="indented-text">Pada tahun 1822, ditempatkannya bala tentara dibawah pimpinan seorang Kapten Bangsa Belgia yang bernama J.P. De La Motte. Tahun 1823, J.P De La Motte dipanggil kembali dan digantikan oleh J.R Bierschel sebagai asisten Residen dan Kapten Kuehn yang sebagai pimpinan tentara karena usahanya menemukan timah gagal. Karena J.R Bierschel memerintah dengan bijaksana, maka menarik perhatian dan pengertian baik dari masyarakat. Ia bahkan berulang kali mendesak pemerintah Belanda hak Depati K.A Rahad itu diakui, tapi itu sia-sia. Sementara itu Bierschel tidak ketinggalan mencari timah dan akhirnya menemukannya, tetapi keinginannya ditolak. Siak akomodati dari Asisten Residen J. W Bierschel tergadap K.A Rahad membuat Syarif Mohamad merasa tidak senang karena seolah-olah mengacuhkannya yang semula diberi kepercayaan untuk menguasai Belitung. Ia kemudian pulang dan melaporkan segala tindak- tanduk J. W Bierschel, yang akhirnya J. W Bierschel ditarik pulang kembali. Sebenarnya, bukan karena alasan itu J. W Bierschel ditarik pulang, melainkan karena untuk penghematan biaya dan hak-hak penggalian timah belum diakui Belanda.</p>
-        </div>
-        <div class="image2">
-            <img src="img/sejarah2.png" alt="Gambar2">
-            <p>Foto lama<i> - Bendungan Pice</i></p>
-        </div>
-    </div>
-
-    <div class="container3">
-        <div class="image3">
-            <img src="img/sejarah3.jpg" alt="Gambar3">
-            <p>Foto<i> - Bendungan Pice</i></p>
-        </div>
-        <div class="penjelasan3">
-            <p class="indented-text"> Pada tahun 1838, Belanda tim ekspedisi yang dipimpin oleh P.C Riedel, guna menyelidiki dan mencari tahu tentang sikap Depati yang tidak dapat ditundukkan oleh sekian banyak orang pemimpin baik Belanda. Akan tetapi, P.C Riedel juga mendengarkan anjuran Residen Bangka De Hasee dan mantan Residen Belitung, yaitu J.W Bierschel agar mengakui hak-hak K.A Rahad sebagai Bupati Belitung. Tahun 1850, Dr. J.H Croockewit diutus pemerintah Belanda untuk melakukan penyelidikan mengenai kemungkinan biji timah di Belitung. Akan tetapi, ia mengalami kegagalan karena tidak mendapat dukungan rakyat dan K.A Rahad.
-Setelah melalui berbagai usaha, akhirnya ia bersama dengan beberapa orang mendapat informasi dari rakyat mengenai keberadaan biji timah. Setelah berhasil menemukan lokasinya, mereka mendatangkan pekerja timah dari cina dan pekerja timah dari cina itu sering disebut sebagai Cina Kuncit, sebab mereka mempunyai rambut panjang dibagian belakang yang dikuncit. Perusahaan penambangan timah awal mulanya bernama Billiton Maatschapy yang kemudian berubah nama menjadi NV GMB, selanjutnya kedatangan kapal keruk yang bakal dipakai untuk mengeruk tanah di lokasi dan memulai pencarian timah.
-Beberapa lokasi pengerukan timah dan salah satunya adalah di Sungai Lenggang yang menghasilkan banyak timah, sehingga pencarian dan penggalian timah semangkin dalam dan air semangkin banyak yang akhirnya menyebabkan pengoperasian kapi keruk terhenti. Hal ini lah yang membuat pihak Belanda berpikir keras bagaimana agar air tersebut dapat dikontrol sehingga pengoperasian dapat beijaan kembali. Kemudian muncullah ide untuk membangun bendungan yang berfungsi sebagai pengontrol air tersebut. Maka dibangunkanlah bendungan yang kemudian bernama Bendungan Pice yang sering dipanggil dengan sebutan Pice. Nama Pice sendiri berasal dan sebutan orang Cina yang menyebutkan nam Phice yang artinya pintu air, sehingga masyarakat Belitung menamainya dengan sebutan Pice, tetapi ada pula yang menyebutkan nama Pice itu berasal dari nama Sir Vance yang merupakan seorang arsitek insinyur Belanda yang membangun bendungan tersebut. Akan tetapi pada tahun 1953, Pemerintah NI mengambil alih perusahaan timah dan perusahaan timah beralih nama menjadi PN Timah. Tahun 1958, PN Timah membangun sebuah bendungan baru yang terarah ke laut dan ukurannya tidak begitu besar tetapi membantu Pice dalam mengatur air. Setelah beberapa lama beroperasi, muncullah pendapat bahwa pertambangan timah dibelitung sudah tidak produktif dan mereka berpendapat jika diteruskan maka akan mengalami kerugian besar karena biaya operasionalnya lebih besar dibandingkan dengan hasil yang mereka peroleh. Maka tahun 1991, KK IX Meranteh keluar dari Sungai Lenggang menuju Pulau Bangka.
-</p>
-        </div>
-    </div>
-
+<p>Sistem Pemantauan Ketinggian Air (SIPEKA) itu sendiri adalah sebuah sistem yang dirancang untuk memantau dan mengukur ketinggian air di Sungai Lenggang dekat Bendunagn Pice. Tujuan utama dari SIPEKA adalah untuk mengumpulkan data yang relevan tentang tingkat air dan mengirimkannya kepada pihak yang berwenang untuk analisis dan tindakan peringatan yang dirancang khusus untuk memberikan peringatan dini kepada masyarakat tentang potensi banjir atau banjir yang akan sedang terjadi. Tujuan utama dari sistem ini adalah memberikan waktu yang cukup bagi individu dan masyarakat untuk mengambil tindakan pencegahan, seperti mengungsi atau melindungi diri dan harta benda mereka dari bahaya banjir. Sistem ini dapat digunakan dalam berbagai konteks, termasuk pemantauan banjir, manajemen sumber daya air, dan perencanaan lingkungan. SIPEKA terdiri dari sejumlah perangkat keras dan perangkat lunak yang bekerja sama untuk memantau ketinggian air. Beberapa komponen umum dalam SIPEKA meliputi:</p>
  
+<p>1.	Sensor Ketinggian Air: Sensor khusus yang digunakan untuk mengukur ketinggian air di lokasi yang diinginkan. Sensor ini dapat berupa sensor ultrasonik yang sesuai untuk aplikasi tertentu.</p>
+<p>2.	Alat Peringatan: Alat pemantauan yang dilengkapi dengan sensor untuk mengukur ketinggian air. Data yang dihasilkan oleh alat ini dikirimkan ke sirine yang apabila ketinggian air melebihi batas akan berbunyi.</p>
+<p>3.	Komunikasi: Sistem SIPEKA biasanya terhubung ke jaringan komunikasi yang memungkinkan data ketinggian air untuk dikirimkan ke website yang dapat diakses oleh siapapun.</p>
+<p>4.	Perangkat Lunak: Perangkat lunak untuk pengolahan data, pemantauan, dan pelaporan. Ini memungkinkan pengguna untuk melihat data ketinggian air dalam bentuk grafik, laporan, atau peta.</p>
 
+<p>SIPEKA memiliki banyak aplikasi yang penting, termasuk memperingatkan terjadinya banjir, memantau tingkat air dalam sumber daya air yang penting, dan mendukung perencanaan pengelolaan sumber daya air yang berkelanjutan. Sistem ini dapat membantu masyarakat, pemerintah, dan organisasi lainnya dalam mengambil tindakan yang cepat dan efektif dalam menangani situasi yang melibatkan tingkat air, terutama dalam konteks mitigasi bencana banjir dan perlindungan lingkungan.</p>
+</div>
 <!-- 
     footer -->
     <footer class="footer-distributed">

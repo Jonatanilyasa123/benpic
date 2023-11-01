@@ -7,13 +7,8 @@ body {
 
 }
 
-.container{
-width: 100%; /* Lebar container 100% lebar layar */
-}
 
-@media (max-width: 768px) {
-    /* CSS untuk layar kecil di sini */
-  }
+
 
 .navbar {
     background-color: #003478;
@@ -54,7 +49,11 @@ width: 100%; /* Lebar container 100% lebar layar */
     display: flex;
     align-items: center;
     padding: 8px 16px;
+    flex-direction: column;
+    cursor: pointer;
 }
+
+
 
 .navbar .logo a {
 
@@ -80,15 +79,37 @@ font: bold 24px sans-serif;
 }
 
 .navbar .menu {
+    list-style-type: none;
     display: flex;
     align-items: center;
         font-family: "Helvetica", sans-serif;
         justify-content: center;
 
-        padding-right: 70px;
+     
         
     
     
+}
+
+.navbar .menu.active{
+    display: flex;
+}
+
+.menu ul{
+    list-style-type: none;
+}
+
+
+.menu li {
+    margin: 0;
+    list-style-type: none;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
 }
 
 .navbar .menu a {
@@ -125,18 +146,9 @@ font: bold 24px sans-serif;
     display: block;
 }
 
-@media (max-width: 768px) {
-    .carousel-indicators ul{
-        text-align: center;
 
-    }
 
-    .carousel-indicators li{
-        float{
-            display: inline-block;
-        }
-    }
-}
+
 
 
 
@@ -248,6 +260,15 @@ p {
     font-size: 16px;
 }
 
+
+iframe{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
 .video-container {
     background-color: #003478;
     display: flex;
@@ -256,6 +277,7 @@ p {
     justify-content: center;
     max-width: 100%;
     width: auto;
+    overflow: hidden;
 }
 
 #main-video {
@@ -269,17 +291,35 @@ p {
 #other-videos {
     max-width: 100%;
     height: auto;
-    display: flex;
+    display: block;
     flex-direction: column;
     margin-left: 50px;
+    overflow: auto;
+    white-space: nowrap;
+    margin-bottom: 10px;
 }
 
 .other-video {
-    max-width: 100%;
+    max-width: 200px;
     height: auto;
-    width: 320px;
-    height: 180px;
-    margin-bottom: 10px;
+    width: 200px;
+    
+    margin-right: 10px;
+    display: inline-block;
+}
+
+@media(max-width: 767px){
+    #other-videos {
+        overflow: hidden;
+        white-space: normal;
+        text-align: center
+    }
+
+    .other-video{
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+    }
 }
 
 
@@ -801,3 +841,55 @@ kejadian */
 .himbauan p{
     padding-left: 20px;
 }
+
+
+/* sop */
+
+#sopbanjir{
+    padding-left: 20px;
+  
+   
+   
+}
+
+.apaanjir{
+    padding-left: 20px;
+}
+
+.nahinijir{
+    padding-left: 20px;
+}
+
+.nahinijirlah{
+    text-align: center;
+}
+
+/* sipeka */
+.center-both {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.sipekalagi img{
+    justify-content: center;
+align-items: center;
+    text-align: center;
+}
+
+
+.iniajalah{
+    padding-left: 20px;
+}
+
+.iniajalah p{
+    padding-left: 20px;
+    text-align: center;
+}
+
+

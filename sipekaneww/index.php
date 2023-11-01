@@ -24,9 +24,12 @@
             <img src="img/sipekaaja.png" alt="Logo"> 
             Si<span>Peka</span>
         </a>
+        
     </div>
+    
     <div class="menu">
-    <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-speedometer2" viewBox="0 0 16 16">
+       
+   <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-speedometer2" viewBox="0 0 16 16">
   <path d="M8 4a.5.5 0 0 1 .5.5V6a.5.5 0 0 1-1 0V4.5A.5.5 0 0 1 8 4zM3.732 5.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 10a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 10zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L7.547 9.31a.91.91 0 1 0 1.302 1.258l3.434-4.297a.389.389 0 0 0-.029-.518z"/>
   <path fill-rule="evenodd" d="M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25C11.309 13.488 9.475 13 8 13c-1.474 0-3.31.488-4.615.911-1.087.352-2.49.003-2.932-1.25A7.988 7.988 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.203.575.923.876 1.68.63C4.397 12.533 6.358 12 8 12s3.604.532 4.923.96c.757.245 1.477-.056 1.68-.631A7 7 0 0 0 8 3z"/>
 </svg> Dashboard</a>
@@ -41,10 +44,15 @@
         <a href="sop.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book-fill" viewBox="0 0 16 16">
   <path d="M8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
 </svg> SOP</a>
-        <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
+       <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
   <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z"/>
 </svg> Kontak</a>
+
+<a href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z"/>
+</svg></a>
     </div>
+    </ul>
 </div>
 
 <div style="margin-top: 60px;">
@@ -58,6 +66,7 @@
         <li data-target="#myCarousel" data-slide-to="2"></li>
     </ul>
 
+    
 
   
     <div class="carousel-inner">
@@ -206,9 +215,9 @@
 
 <section id="data-bencana-alam">
     <div class="container">
-        <h2>Data Sensor Saat Ini</h2>
+        <h2>Data Sensor Bawah</h2>
         
-        <p>5.5 cm</p>
+        <p>4.3 M</p>
         
     </div>
 </section>
@@ -226,6 +235,31 @@
     </div>
 </div>
 
+
+<section id="data-bencana-alam">
+    <div class="container">
+        <h2>Data Sensor Bendungan</h2>
+        
+        <p>5.5 M</p>
+        
+    </div>
+</section>
+
+<div class="container-a">
+    <div class="gauge-container">
+        <h2>Ketinggian <span class="bold-text">Air</span></h2>
+        <img src="img/gauge.png" alt="Chart Image">
+        <p></p>
+    </div>
+    <div class="chart-container">
+        <h2>Grafik <span class="bold-text">Ketinggian Air</span></h2>
+        <img src="img/chart.png" alt="Gauge Image">
+        <p></p>
+    </div>
+</div>
+
+
+
 <div class="dibuka-tutup">
     <br>
     <h3>Pintu Bendungan Sedang Dibuka/Tutup</h3>
@@ -236,6 +270,8 @@
     <p>-</p>
     <p>-</p>
     <p>-</p>
+
+    <br>
 </div>
 
 <div class="jagoan">
@@ -272,13 +308,13 @@
     <br>
     <br>
         <iframe id="main-video" src="https://www.youtube.com/embed/XQRUBlC6qC4?si=VBIBFcZgmSlxOsld" frameborder="0" allowfullscreen></iframe>
-        <div id="other-videos">
-            <iframe class="other-video" src="https://www.youtube.com/embed//Z5su8s4ayb4?si=qjRl4kxys9StaNl0" frameborder="0" allowfullscreen></iframe>
-            <iframe class="other-video" src="https://www.youtube.com/embed/dLHp1vMlKkU?si=hrwnYWVBYfnzTddd" frameborder="0" allowfullscreen></iframe>
-              
-                <br>
+        <br>
+        <br>
         </div>
-    </div>
+
+        
+
+   
 
    
 
@@ -377,7 +413,14 @@
     getStatus();
 
 
+    document.addEventListener("DOMContentLoaded", function () {
+    const menuIcon = document.getElementById("logo");
+    const menu = document.getElementById("menu");
 
+    menuIcon.addEventListener("click", function () {
+        menu.classList.toggle("active");
+    });
+});
 </script>
 
 </body>
